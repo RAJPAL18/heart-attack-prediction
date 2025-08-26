@@ -12,7 +12,7 @@ A machine learning project to predict the likelihood of heart attack based on pa
 ## Technologies Used
 
 - Python
-- scikit-learn / TensorFlow / PyTorch (customize based on your project)
+- scikit-learn 
 - pandas, numpy, matplotlib, seaborn
 
 ## Getting Started
